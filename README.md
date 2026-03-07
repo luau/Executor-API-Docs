@@ -40,6 +40,7 @@
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
+| [Potassium](https://potassium.gitbook.io/api/) | Official
 | [ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher%20Latest) | Official, Archived
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated

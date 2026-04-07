@@ -65,6 +65,7 @@
 | [Valkyrie](https://valkyrieofficial.vercel.app/docs/ValkyrieDocs.html) | Official
 | [Vash X](https://www.vashx.org/docs/api) | Official
 | [Volcano](https://docs.volcano.wtf/api/environment) | Official
+| [Volt](https://docs.volt.bz/) | Official
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
 | [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win/) | Official, Archived
 

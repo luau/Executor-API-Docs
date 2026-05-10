@@ -7,7 +7,7 @@
 * ***Any material provided in this README file, such as (but not exclusive to): links, images and names - all belong to their rightful owners.***
 # Executor Documentation List
 ## Notes
-* If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org/) & searching there!
+* If a link doesn't work we recommend visiting the [Internet Archive Wayback Machine](https://web.archive.org) & searching there!
 * You can also search this repository, especially the [./docs](https://github.com/luau/Executor-API-Docs/tree/master/docs) folder
 * `Archived` tag means that the documentation might also be `Outdated` as well, as we don't have a way of verifying that
 * If you disagree with something in this repository you can always open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) or an [Issue](https://github.com/luau/Executor-API-Docs/issues)
@@ -21,7 +21,7 @@
 | [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
 | [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
 | [Celery RakNet Library](https://gist.github.com/jLn0n/16c2ce3c0c1fc1b6b76949715077da7a/cedf1629355ab858d6d47846b10e02bb37ea704f) | Unofficial, Outdated | Includes Rare RakNet Docs!<br />Author: jalon ([Github](https://github.com/jLn0n), [Discord](https://discordapp.com/users/474555624219344906))
-| [Comet](https://paficent.github.io/CometDocs/) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
+| [Comet](https://paficent.github.io/CometDocs) | Unofficial, Outdated | Other Undocumented Functions: https://github.com/Paficent/CometDocs/blob/gh-pages/OtherFunctions.md
 | [Cyber](https://luau.github.io/Executor-API-Docs/Cyber) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/greenmancode/docs)
 | [DX9WARE](https://docs.cultofintellect.com) | Official
 | [Bunni.lol](https://bunni.lol/docs) | Official, BROKEN
@@ -31,12 +31,12 @@
 | [[OLD] Elysian](https://luau.github.io/Executor-API-Docs/Elysian%202017) | Official, Archived
 | [Fluster Zero](https://web.archive.org/docs.fluster.world/ ) | Official, Archived
 | [Fluxus Android](https://github.com/YieldingFluxus/android-documentation) | Unofficial, Outdated
-| [Fluxus](https://fluxusrbx.gitbook.io/) | Official, Outdated
+| [Fluxus](https://fluxusrbx.gitbook.io) | Official, Outdated
 | [Hexus](https://github.com/customality/hexus) | Official, Outdated
-| [KRNL](https://web.archive.org/docs.krnl.ca/) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
+| [KRNL](https://web.archive.org/docs.krnl.ca) | Official | Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/krnldoc
 | [KRNL](https://app.archbee.com/public/2Jp4SDaAD4P1COFfx1p_t) | Unofficial | Author: zzerexx ([Github](https://github.com/zzerexx), [Discord](https://discordapp.com/users/292756593412669440))
 | [KRNL Predocs](https://web.archive.org/web/20220703164205/krnl.place/predocs.html) | Official | Author: Someone Insane#9501
-| [Nihon](https://web.archive.org/web/20250215061143/https://docs.nihon.lol/) | Official
+| [Nihon](https://web.archive.org/web/20250215061143/https://docs.nihon.lol) | Official
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated
@@ -46,8 +46,8 @@
 | [[OLD] ProtoSmasher](https://web.archive.org/docs.protosmasher.net) | Official, Archived
 | [[OLD] ProtoSmasher](https://luau.github.io/Executor-API-Docs/ProtoSmasher) | Official, Outdated
 | [Raindrop](https://luau.github.io/Executor-API-Docs/Raindrop) | Official, Archived |  Author: 3dsboy08 ([Github](https://github.com/3dsboy08), [Discord](https://discordapp.com/users/529155884643909643)), [Source](https://archive.softwareheritage.org/browse/origin/directory/?origin_url=https://github.com/3dsboy08/3dsboy08.github.io)
-| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz/) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
-| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg/) | Official, Archived
+| [Rainer](https://web.archive.org/https://developer.rainerexploit.xyz) | Official, Archived |  Author: MisterGunXD ([Github](https://github.com/MisterGunXD), [Discord](https://discordapp.com/users/318824212020330496))
+| [RO-EXEC (Krampus/loader.live)](https://web.archive.org/docs.krampus.gg) | Official, Archived
 | [[OLD] RO-EXEC (Krampus/loader.live)](https://web.archive.org/web/20240314125602/krampus-organization.gitbook.io/loader.live-ro-exec-documentation) | Official, Outdated | **Warning**: Google flags the site as harmful
 | [Script-Ware](https://web.archive.org/web/20220421142618/docs.script-ware.com/the-script-ware-api) | Official, Archived | Navigate through site using `Open Link in New Tab` only,<br />otherwise you might not get redirected.<br />If that still doesn't work -<br />try removing `web/allnumbers/` from the link then pressing `ENTER` |
 | [Sentinel](https://luau.github.io/Executor-API-Docs/Sentinel) | Unofficial, Archived | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
@@ -67,9 +67,9 @@
 | [Vash X](https://www.vashx.org/docs/api) | Official
 | [Volcano](https://docs.volcano.wtf/api/environment) | Official
 | [Volt](https://docs.voltbz.net) | Official
-| [[OLD] Volt](https://docs.volt.bz/) | Official, Outdated
+| [[OLD] Volt](https://docs.volt.bz) | Official, Outdated
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
-| [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win/) | Official, Archived
+| [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win) | Official, Archived
 
 ## No Longer Working & Archive Missing
 ### Let us know if you have, find or get a working archive of any of these sites
@@ -79,7 +79,7 @@
 
 * [Here's Guide for Restoring Websites](https://wiki.archiveteam.org/index.php?title=Restoring), if you manage to fully restore a website from the list below you should open a [Pull Request](https://github.com/luau/Executor-API-Docs/pulls) to this repository with the website that you've restored, or you can just open an [Issue](https://github.com/luau/Executor-API-Docs/issues). This way we can ensure websites are safe & sound. This also allows us (you included) to make edits & fixes to the websites if we need to!
 
-* We recommend using `https://web.archive.org/web/*/example.com` for ***Snapshot Calendar*** and `https://web.archive.org/web/*/example.com/*` for ***URL Table List***, make sure to replace `example.com` with the website domain that you're looking to inspect (without `https://`). This site (https://archivarix.com/en/) should format the links automatically for you after you enter your desired domain into the domain textbox:
+* We recommend using `https://web.archive.org/web/*/example.com` for ***Snapshot Calendar*** and `https://web.archive.org/web/*/example.com/*` for ***URL Table List***, make sure to replace `example.com` with the website domain that you're looking to inspect (without `https://`). This site (https://archivarix.com/en) should format the links automatically for you after you enter your desired domain into the domain textbox:
 <br /><br />![Example](https://github.com/luau/Executor-API-Docs/assets/95628489/6e588d90-cb58-4f44-990e-083ceeecb784)
 
 Another approach is to use the Web Archive api directly, example: `https://web.archive.org/cdx/search/cdx?url=*.krampus.gg/`. This way you can inspect all the domains & subdomains that were archived.
@@ -90,14 +90,14 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | :- | :- | -
 | [Elysian](https://irishost.xyz/FileUploader/Iris/ElyDocs.html) | Unofficial | Author: Iris ([Github](https://github.com/RiisDev), [Discord](https://discordapp.com/users/465727038305599500))
 | [Hexus](https://forum.hexus.xyz/t/hexus-functions/6885/2) | Official | Thread: https://v3rmillion.net/showthread.php?tid=638069<br />OG Executor, which makes the documentation rare!
-| [KRNL](https://docs.krnl.rocks/) | Official, Outdated
+| [KRNL](https://docs.krnl.rocks) | Official, Outdated
 | [KRNL](https://krnl.place/docs) | Official, Outdated
 | [KRNL](https://krnl.rocks/docs) | Official, Outdated
-| [Magnius](https://magnius.xyz/) | Official | Thread: https://forum.wearedevs.net/t/20523
+| [Magnius](https://magnius.xyz) | Official | Thread: https://forum.wearedevs.net/t/20523
 | [Noobhaxx](https://gist.github.com/greenmancode/b069b35df2135a3430c80795a7cd672a) | Unofficial | Author: greenmangaming.com ([Github](https://github.com/greenmancode), [Discord](https://discordapp.com/users/577282206079385610))
 | [Script-Ware](https://dev.script-ware.com) | Official
 | [Sweethart of Sigma Chi (SOSC)](https://sweetheart-of-sigma-chi.com/docs) | Official | Redirects to https://cdn.calamari.cc/ssc/sonblows.pdf
-| [Vashta (formerly Veil)](https://api.vashta.io/) | Official | Merged into Sentinel. Other Links: https://forum.vashta.io/t/offical-release-vashta-veil-2-0-apology/5989<br />OG Executor, which makes the documentation rare!
+| [Vashta (formerly Veil)](https://api.vashta.io) | Official | Merged into Sentinel. Other Links: https://forum.vashta.io/t/offical-release-vashta-veil-2-0-apology/5989<br />OG Executor, which makes the documentation rare!
 | [Visenya (formerly Stella V)](https://targaryentech.com/api.html) | Official | Merged into Synapse X. Other Links: https://variablehosting.net/Visenya/api.html<br />Thread: https://v3rmillion.net/showthread.php?tid=621711<br />OG Executor, which makes the documentation rare!
 
 # Useful Links

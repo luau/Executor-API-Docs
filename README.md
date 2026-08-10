@@ -105,3 +105,4 @@ Also, you can use this site https://archive.softwareheritage.org/browse which ar
 | :- | :- | -
 | [UMF](https://github.com/luau/SomeHub/wiki/Universal-Method-Finder) | Universal Method Finder.<br />We ***strongly recommend*** trying it out instead of using the classic `local clipBoard = setclipboard or toclipboard or set_clipboard or (Clipboard and Clipboard.set)` notation. It will make your developer life easier :fire: | Authors: Us :grin:
 | [UNC](https://github.com/unified-naming-convention/NamingStandard) | Unified Naming Convention | Authors: Script-Ware Devs
+| [sUNC](https://docs.sunc.su) | senS' Unified Naming Convention | Authors: senS, Richy-Z, Lovre & other contributors

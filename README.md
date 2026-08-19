@@ -3,6 +3,8 @@
 </p>
 
 # Disclaimer
+> [!IMPORTANT]
+> Independent, unofficial project. Not affiliated with, endorsed by, or officially connected to Roblox Corporation. "Luau" is a trademark of Roblox Corporation.
 * ***This repository is solely for educational & learning purposes only!***
 * ***Any material provided in this README file, such as (but not exclusive to): links, images and names - all belong to their rightful owners.***
 # Executor Documentation List

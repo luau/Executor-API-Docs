@@ -43,6 +43,7 @@
 | [KRNL Predocs](https://web.archive.org/web/20220703164205/krnl.place/predocs.html) | Official | Author: Someone Insane#9501
 | [Madium](https://getmadium.net/docs/) | Official
 | [Nihon](https://web.archive.org/web/20250215061143/https://docs.nihon.lol) | Official
+| [NinjaKernel](https://ninjakernel.dev/docs) | Official
 | [Oxygen U](https://oxygenu.xyz/docs/book) | Official : Author: bruvzz ([Github](https://github.com/bruvzz)) Source: https://github.com/bruvzz/oxydoc
 | [[OLD] Oxygen U](https://oxygenu.xyz/docs.html) | Official, Outdated
 | [[OLD] Oxygen U](https://github.com/iDevastate/Oxygen-v2/blob/main/docs.txt) | Official, Outdated

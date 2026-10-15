@@ -80,6 +80,7 @@
 | [Volt](https://docs.voltbz.net) | Official
 | [[OLD] Volt](https://docs.volt.bz) | Official, Outdated
 | [Wave](https://duckys-playground.gitbook.io/wave/getting-started) | Official
+| [Yub-X](https://yub-x.best/docs) | Official
 | [Zenith](https://web.archive.org/web/20250427125645/https://docs.zenith.win) | Official, Archived
 
 ## No Longer Working & Archive Missing

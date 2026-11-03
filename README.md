@@ -20,6 +20,7 @@
 | [Arceus X](https://app.archbee.com/public/GTONzNA7evjrQC6ZE_BLZ/2lbM6e2QyZJCefiVR2qKy) | Unofficial
 | [Asshurt](https://luau.github.io/Executor-API-Docs/Asshurt) | Official, Archived
 | [Athena](https://web.archive.org/web/20180406063027/tacticalbfg.com:80/Athena/docs) | Official, Archived
+| [Atomic](https://getatomic.pro/docs) | Official
 | [Calamari](https://web.archive.org/calamari.cc/Environment) | Official, Archived | Redirects to https://forum.calamari.cc/showthread.php?tid=401
 | [Celery](https://celeryrblx.github.io) | Unofficial | Includes Rare RakNet Docs!
 | [Celery](https://web.archive.org/web/20220416001215/github.com/thedoomed/Celery) | Unofficial, Archived | Includes Rare RakNet Docs!
